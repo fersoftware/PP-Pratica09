@@ -10,6 +10,12 @@ namespace PP_Pratica09
     {
         static void Main(string[] args)
         {
+            //new ExibirVetor().exibir();
+            //new BuscaNome().exibir();
+            //new SomaVetor().Exibir();
+            //new Media().Exibir();
+            new DiadoAno().Exibir();
+            Console.ReadKey();
         }
     }
 }
